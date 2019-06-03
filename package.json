@@ -3,7 +3,7 @@
   "private": true,
   "displayName": "localizeR",
   "description": "Add text to locale file",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "engines": {
     "vscode": "^1.34.0"
   },
