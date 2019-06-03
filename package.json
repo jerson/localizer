@@ -3,7 +3,7 @@
   "private": true,
   "displayName": "localizeR",
   "description": "Add text to locale file",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "publisher": "jerson",
   "repository": {
     "type": "git",
