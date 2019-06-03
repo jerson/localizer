@@ -101,7 +101,7 @@ export class LocalizeR implements vscode.CodeActionProvider {
     );
     const finalText = document.getText().replace(
       this.config.localeReplacer,
-      `'${key}':'changethis',
+      `${key}:'changethis',
 ${this.config.localeReplacer}`
     );
     const edit = new vscode.WorkspaceEdit();
