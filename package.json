@@ -4,6 +4,7 @@
   "displayName": "localizeR",
   "description": "Add text to locale file",
   "version": "0.1.0",
+  "publisher": "jerson",
   "engines": {
     "vscode": "^1.34.0"
   },
